@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Fotocamera</string>
+    <string name="app_name">Fotocamera</string>
+    <string name="label_caption">Choose a caption for the picture</string>
+    <string name="button">Invia</string>
+        
+</resources>
